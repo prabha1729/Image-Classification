@@ -1,2 +1,3 @@
 # Image-Classification
-Multi-layered perceptron on Google's Quick Draw Dataset
+Image Classification on Google's AI Quick Draw Dataset using Multi-layered perceptron
+

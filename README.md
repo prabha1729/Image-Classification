@@ -4,3 +4,4 @@
 •	Evaluated & compared performance of the model in terms of accuracy & time by changing the number of hidden layers, image resolution.
 
 
+https://github.com/prabha1729/Image-Classification/blob/master/Untitled.png

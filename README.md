@@ -1,3 +1,6 @@
-# Image-Classification
-Image Classification on Google's AI Quick Draw Dataset using Multi-layered perceptron
+# Image Classification on AI Quick Draw 
+•	Trained multi-layered neural network on AI quick draw dataset with 10 categories each category includes 12,500 images with size of 28x28.
+
+•	Evaluated & compared performance of the model in terms of accuracy & time by changing the number of hidden layers, image resolution.
+
 

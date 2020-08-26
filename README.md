@@ -3,6 +3,6 @@
 
 •	Evaluated & compared performance of the model in terms of accuracy & time by changing the number of hidden layers, image resolution.
 
-![Plot](https://github.com/prabha1729/Image-Classification/blob/master/Untitled.png)
-![Plot](https://github.com/prabha1729/Image-Classification/blob/master/resolutions.png)
+![Plot](https://github.com/prabha1729/Sentiment-Analysis/blob/master/hiddernlayers.png)
+![Plot](https://github.com/prabha1729/Sentiment-Analysis/blob/master/epoches.png)
 
